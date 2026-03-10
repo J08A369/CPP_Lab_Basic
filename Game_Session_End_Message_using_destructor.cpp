@@ -6,7 +6,6 @@ public:
     Game() {
         cout << "Game Started!" << endl;
     }
-
     ~Game() {
         cout << "Game Over!" << endl;
     }
@@ -16,4 +15,5 @@ int main() {
     Game g;
     return 0;
 }
+
 
