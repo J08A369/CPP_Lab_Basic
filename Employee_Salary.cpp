@@ -16,8 +16,8 @@ int main() {
     Employee e;
     e.name = "Rahim";
     e.salary = 20000;
-
     e.show();
     return 0;
 }
+
 
