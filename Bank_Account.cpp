@@ -13,7 +13,6 @@ public:
 int main() {
     BankAccount b;
     b.balance = 5000;
-
     b.showBalance();
     return 0;
 }
