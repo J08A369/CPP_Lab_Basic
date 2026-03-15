@@ -14,6 +14,7 @@ public:
 
 int main() {
     User u;
+    
     return 0;
 }
 
