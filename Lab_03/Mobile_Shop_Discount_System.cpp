@@ -5,7 +5,6 @@ class MobileShop {
 public:
     float price;
     float discount;
-
     float finalPrice() {
         return price - (price * discount / 100);
     }
