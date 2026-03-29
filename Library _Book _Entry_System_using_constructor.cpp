@@ -5,7 +5,7 @@ class Book {
 public:
     string name;
 
-    Book() {
+Book() {
         name = "C++ Beginner Guide";
         cout << "Book Added Successfully!" << endl;
     }
@@ -14,7 +14,6 @@ public:
         cout << "Book Name: " << name << endl;
     }
 };
-
 int main() {
     Book b;
     b.show();
