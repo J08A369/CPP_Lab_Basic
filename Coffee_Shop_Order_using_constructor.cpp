@@ -8,7 +8,6 @@ public:
     Coffee(int c) {
         cups = c;
     }
-
     void show() {
         cout << "Ordered Cups: " << cups;
     }
