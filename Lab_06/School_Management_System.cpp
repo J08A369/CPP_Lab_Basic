@@ -45,7 +45,6 @@ int main() {
     School s3 = s1 + s2;
 
     cout << "Total Fees: " << s3.fees << endl;
-
     School *s = new School();
 
     delete s;
