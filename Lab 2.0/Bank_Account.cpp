@@ -9,7 +9,6 @@ public:
         cout << "Balance: " << balance << " Tk";
     }
 };
-
 int main() {
     BankAccount b;
     b.balance = 5000;
